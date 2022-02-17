@@ -7,6 +7,20 @@ body {
     background-color: rgb(204, 157, 248);
 }
 
+h1 {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 22px;
+}
+
+img.lado {
+    float: right;
+}
+
 main {
     background-color: white;
     width: 500px;
